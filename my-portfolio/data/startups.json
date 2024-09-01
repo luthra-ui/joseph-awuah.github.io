@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Startup One",
+        "description": "Description of your first startup and its impact.",
+        "yearFounded": 2005
+    },
+    {
+        "name": "Startup Two",
+        "description": "Description of your second startup and its achievements.",
+        "yearFounded": 2010
+    },
+    {
+        "name": "Startup Three",
+        "description": "Description of your third startup focused on social tech.",
+        "yearFounded": 2015
+    },
+    {
+        "name": "Startup Four",
+        "description": "Description of your latest startup, aligned with SDGs.",
+        "yearFounded": 2020
+    }
+]
